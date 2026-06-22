@@ -1,0 +1,59 @@
+Exercise 1 - Heading
+My Learning Goals
+This Semester I want to become a better programmer,learn github workflow and practice using git commit commands. 
+
+Exercise 2 - Text formatting
+I am learning **GitHub**, practicing *Markdown*, and using the `git commit` command.
+
+Exercise 3 - Links
+My GitHub ProfileMDN Web Docs
+
+Exercise 4 - Lists
+Learn Python
+Understand data structures
+Master Git
+git add .git commit -m "Your commit message"git push
+
+Exercise 5 - Table
+Tool       Purpose                    Link
+VS Code    Code editor              https://code.visualstudio.com
+ Git       Version control          https://git-scm.com/
+ Python    Programming language     https://www.python.org/
+ 
+ Exercise 6 - Task list
+ [x] Set up development environment
+ [ ] Complete online Python course
+ [x] Practice Git commands
+ [ ] Build a small project
+ 
+ Exercise 7 - Code block
+ pythonCopydef greet(name):
+  """This function greets the person passed in as a parameter."""
+  print(f"Hello, {name}!")
+greet("World")
+
+Exercise 8 Blockquote
+A Small Piece of Advice
+"The best way to predict the future is to create it.
+"This is a great reminder that we have the power to shape our own outcome through our actions.
+# About Me
+
+## Hello! 👋
+
+My name is Mary, and I am a student interested in technology and software development.
+
+### My Interests
+- Programming
+- Cybersecurity
+- Artificial Intelligence
+- Reading books
+
+### My Goals
+1. Learn Git and GitHub
+2. Improve my coding skills
+3. Build real-world projects
+
+ "Success is the sum of small efforts repeated day in and day out."
+
+**Fun Fact:** I enjoy learning new tech tools and solving problems with code.
+
