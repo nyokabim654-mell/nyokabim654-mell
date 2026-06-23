@@ -1,38 +1,49 @@
-My Learning Goals
-This Semester
-I want to improve my GitHub skills, learn Markdown formatting, and practice using git commit.
-Links
-My GitHub Profile: https://github.com/yourusername
-Useful Website: https://www.w3schools.com
-Things I Want to Learn
-Git and GitHub
-VS Code
-Markdown
-Steps to Make a Git Commit
-Stage changes using git add .
-Create a commit using git commit -m "message"
-Push changes using git push
-Tools Table
-Tool
-Purpose
-Link
-GitHub
-Version control and collaboration
-https://github.com
-VS Code
-Code editor
-https://code.visualstudio.com
-Learning Tasks
-[x] Create a GitHub account
-[x] Install VS Code
-[ ] Learn Git commands
-[ ] Contribute to a team project
-Code Example
-print("Hello, World!")
-Practice consistently and your skills will improve every day.
-About Me
-My name is Mary. I am learning GitHub, Markdown, and VS Code this semester. My goal is to complete all my learning tasks and improve my coding skills.
-I enjoy learning new technology.
-My GitHub profile: https://github.com/yourusername
-git commit -m "My first commit"
-Never stop learning.
+## My Learning Goals
+
+### This Semester
+
+In this course, I will **master** Git, practice *consistent* coding habits, and write efficient `function` blocks every day.
+
+* [My GitHub Profile](https://github.com)
+* [MDN Web Docs](https://mozilla.org)
+
+* Learn advanced JavaScript
+* Understand cloud architecture
+* Master Markdown formatting
+
+1. Stage your changes using `git add .`
+2. Commit your changes using `git commit -m "Your message"`
+3. Push your changes using `git push origin main`
+
+| Tool | Purpose | Link |
+| :--- | :--- | :--- |
+| VS Code | Code Editing | [VS Code](https://visualstudio.com) |
+| Git | Version Control | [Git](https://git-scm.com) |
+
+- [x] Set up GitHub profile
+- [x] Install VS Code
+- [ ] Complete Markdown practice
+- [ ] Build first repository
+
+```javascript
+function greetUser(name) {
+    console.log(`Hello, ${name}! Welcome to the course.`);
+}
+greetUser('Developer');
+```
+
+> "The expert in anything was once a beginner." – Helen Hayes
+
+---
+
+## About Me
+
+Hello! I am an aspiring software developer currently expanding my technical skillset. 
+
+### Quick Facts:
+* **Current Focus:** Frontend development and version control systems.
+* **Daily Workflow:** I use `VS Code` as my primary code editor.
+* **Motivation:** 
+  > "Coding is the closest thing we have to magic."
+
+For more details on my progress, check out my [GitHub Profile](https://github.com).
