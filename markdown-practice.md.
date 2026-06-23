@@ -1,49 +1,48 @@
 ## My Learning Goals
-
 ### This Semester
 
-In this course, I will **master** Git, practice *consistent* coding habits, and write efficient `function` blocks every day.
+I want to become a **skilled** programmer, stay *consistent*, and practice using `Git` da
 
-* [My GitHub Profile](https://github.com)
-* [MDN Web Docs](https://mozilla.org)
 
-* Learn advanced JavaScript
-* Understand cloud architecture
-* Master Markdown formatting
+- Learn Web Development
+- Improve Git and Github skills
+- Study Python for AI
 
-1. Stage your changes using `git add .`
-2. Commit your changes using `git commit -m "Your message"`
-3. Push your changes using `git push origin main`
+  1. Stage changes using `git add .`
+  2. Commit changes using `git commit -m "message"`
+  3. Push to Github using `git push`
+ 
+  | Tool | Purpose | Link |
+  |------|---------|------|
+  | Git  | Version Control |  https://git-scm.com|
+  | VS Code | Code Editor |  https://code.visualstudio.com |
 
-| Tool | Purpose | Link |
-| :--- | :--- | :--- |
-| VS Code | Code Editing | [VS Code](https://visualstudio.com) |
-| Git | Version Control | [Git](https://git-scm.com) |
 
-- [x] Set up GitHub profile
-- [x] Install VS Code
-- [ ] Complete Markdown practice
-- [ ] Build first repository
+  - [x] Install Git
+  - [x] Create Github account
+  - [ ] Learn Markdown
+  - [ ] Build Personal Website
+ 
+  ```python
+  print("Welcome")
+  ```
+  > Consistency beats motivation.
 
-```javascript
-function greetUser(name) {
-    console.log(`Hello, ${name}! Welcome to the course.`);
-}
-greetUser('Developer');
-```
 
-> "The expert in anything was once a beginner." – Helen Hayes
 
----
+  ## About Me
 
-## About Me
+Hi, I'm Nyokabi — a **Mechatronics Engineering** graduate learning *software development* and `AI`.
 
-Hello! I am an aspiring software developer currently expanding my technical skillset. 
+### My Current Goals
+- Learn Web Development
+- Master Git and GitHub
+- Build real projects
 
-### Quick Facts:
-* **Current Focus:** Frontend development and version control systems.
-* **Daily Workflow:** I use `VS Code` as my primary code editor.
-* **Motivation:** 
-  > "Coding is the closest thing we have to magic."
+### Tools I'm Using
+| Tool | Purpose |
+|------|---------|
+| Git | Version control |
+| Python | Programming |
 
-For more details on my progress, check out my [GitHub Profile](https://github.com).
+> "Start where you are. Use what you have. Do what you can."
