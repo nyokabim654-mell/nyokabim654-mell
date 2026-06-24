@@ -1,8 +1,7 @@
 ## My Learning Goals
 ### This Semester
 
-I want to become a **skilled** programmer, stay *consistent*, and practice using `Git` da
-
+I want to become a **skilled** programmer, stay *consistent*, and practice using `Git` daily
 
 - Learn Web Development
 - Improve Git and Github skills
@@ -17,7 +16,6 @@ I want to become a **skilled** programmer, stay *consistent*, and practice using
   | Git  | Version Control |  https://git-scm.com|
   | VS Code | Code Editor |  https://code.visualstudio.com |
 
-
   - [x] Install Git
   - [x] Create Github account
   - [ ] Learn Markdown
@@ -27,8 +25,6 @@ I want to become a **skilled** programmer, stay *consistent*, and practice using
   print("Welcome")
   ```
   > Consistency beats motivation.
-
-
 
   ## About Me
 
